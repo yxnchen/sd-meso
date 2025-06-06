@@ -89,7 +89,12 @@ We kindly request that users acknowledge this work by citing:
 - This codebase:
 
 ```
-
+@misc{meso2025yxnchen,
+	author = {Chen, Yixian},
+	title = {{G}it{H}ub - yxnchen/sd-meso: {M}{E}{S}{O}: {A} {M}ulti-{P}articipant {S}patio-{T}emporal {E}vent {S}tream {D}ataset in {O}perating {R}oom from {T}wo {T}ertiary {H}ospitals --- github.com},
+	howpublished = {\url{https://github.com/yxnchen/sd-meso}},
+	year = {2025}
+}
 ```
 when using these resources for publications or derived works.
 
