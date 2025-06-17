@@ -1,7 +1,6 @@
-# MESO: A Multi-Participant Spatio-Temporal Event Stream Dataset in Operating Room from Two Tertiary Hospitals in China
+# MESO: A Multi-Participant Spatio-Temporal Event Stream Dataset in Operating Room from Two Tertiary Hospitals
 
-This repository contains the data processing pipeline and analysis code for *MESO: A Multi-Participant Spatio-Temporal Event Stream Dataset in Operating Rooms from Two Tertiary Hospitals in China
-(in submission)*.
+This repository contains the data processing pipeline and analysis code for *MESO: A Multi-Participant Spatio-Temporal Event Stream Dataset in Operating Rooms from Two Tertiary Hospitals (in submission)*.
 
 
 
@@ -22,7 +21,7 @@ python -m pip install -r requirements.txt
 
 ## Folder Structure
 
-Prior to conducting the analysis, users must download the dataset from the designated [figshare]() repository. The downloaded data files should be placed in the project's `data` folder, resulting in the following directory structure:
+Prior to conducting the analysis, users must download the dataset from the designated [figshare]() repository (in private currently). The downloaded data files should be placed in the project's `data` folder, resulting in the following directory structure:
 
 ```
 data/
@@ -73,17 +72,10 @@ We kindly request that users acknowledge this work by citing:
 
 ```
 
-- The figshare dataset repository:
+- The figshare dataset repository (in private currently):
 
 ```
-@misc{chen_2025, 
-    title={MESO: A Multi-Participant Spatio-Temporal Event Stream Dataset in Operating Room from Two Tertiary Hospitals}, 
-    url={https://figshare.com/collections/_/7813193/0}, 
-    publisher={figshare}, 
-    author={Chen, Yixian}, 
-    year={2025}, 
-    month={Jun} 
-}
+
 ```
 
 - This codebase:
